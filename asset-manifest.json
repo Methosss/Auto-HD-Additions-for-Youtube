@@ -1,0 +1,17 @@
+{
+  "background.js": "/static/js/background.js",
+  "background.js.map": "/static/js/background.js.map",
+  "content.js": "/static/js/content.js",
+  "content.js.map": "/static/js/content.js.map",
+  "popup.css": "/static/css/popup.css",
+  "popup.js": "/static/js/popup.js",
+  "popup.js.map": "/static/js/popup.js.map",
+  "popup.html": "/popup.html",
+  "static/css/popup.css.map": "/static/css/popup.css.map",
+  "static/js/content.js.LICENSE.txt": "/static/js/content.js.LICENSE.txt",
+  "static/js/popup.js.LICENSE.txt": "/static/js/popup.js.LICENSE.txt",
+  "static/media/App.css": "/static/media/Gilroy-SemiBold.e38937db.woff",
+  "static/media/HD.155216bf.png": "/static/media/HD.155216bf.png",
+  "static/media/VideoOptionsBox.css": "/static/media/screen-gifs.773e585a.png",
+  "static/media/star.bd4f17cc.png": "/static/media/star.bd4f17cc.png"
+}
