@@ -17,4 +17,5 @@ Enjoy.
 ![obraz](https://user-images.githubusercontent.com/32804020/211694245-1701cc05-2a55-4328-992b-5f643ea5ca10.png)
 ![obraz](https://user-images.githubusercontent.com/32804020/211694260-a86d3698-1160-440c-ae45-2e78de3ace39.png)
 ![obraz](https://user-images.githubusercontent.com/32804020/211694268-35811ee8-96c2-4ebc-a914-35c4d9ecebe9.png)
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
+
+![](https://komarev.com/ghpvc/?username=Auto-HD-Additions-for-Youtube=blueviolet)
