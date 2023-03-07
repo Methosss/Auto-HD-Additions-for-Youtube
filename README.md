@@ -1,15 +1,20 @@
 # Auto-HD-Additions-for-Youtube
-Auto HD &amp; Additions for Youtube :: Make YouTube browsing more convenient with useful features: Auto HD, Floating Player (PiP), Audio Equalize, Color Filter and more.
-Plugin was Deleted - Replaced on Chrome Extensions Store, with SponsorSkip plugin wich is Ripoff of orginal SponsorBlock plugin.
-This one is much better than "SponsorSkip".
+
+Original Description: 
+> "Auto HD &amp; Additions for Youtube :: Make YouTube browsing more convenient with useful features: Auto HD, Floating Player (PiP), Audio Equalize, Color Filter and more."
+
+<br />Plugin was Deleted - Replaced on Chrome Extensions Store, with SponsorSkip plugin wich is Ripoff of orginal SponsorBlock plugin.
+This one is much better than trash ripoff called "SponsorSkip".
+
 
 **Source:** https://www.extfans.com/productivity/lagdcjmbchphhndlbpfajelapcodekll/download/
 
 # Installation 
-Download all files and save in folder, go to chrome://extensions click load unpacked and select main folder with plugin.
-
+Download all files and save in folder.
+<br />Chrome: go to chrome://extensions click load unpacked and select main folder with plugin.
+<br />Edge (chromium): go to Extensions -> Manage Extensions, on left side panel enable developer mode, and click load unpacked and select main folder with plugin.
 # Note
-I have no knowlege how plugins are made so don't expect updates from me. i'm just casual user who need this plugin and decided to share it.
+I have no knowlege how plugins are made so don't expect updates from me. i'm just casual user who needed this plugin and decided to share it.
 Enjoy.
 
 # images
